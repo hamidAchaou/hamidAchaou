@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel, php, javaScript**
 
-- 📫 How to reach me **hamidachaou379@gmail.com**
+- 📫 How to contact me **hamidachaou379@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
