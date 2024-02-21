@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Kotline**
 
-- 👯 I’m looking to collaborate on [labs web](https://github.com/labs-web)
-
 - 💬 Ask me about **Laravel, php, javaScript**
 
 - 📫 How to reach me **hamidachaou379@gmail.com**
