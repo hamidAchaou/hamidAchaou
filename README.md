@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidachaou" alt="hamidachaou" /></a> </p>
 
-- 🔭 I’m currently working on [CNMH](https://github.com/cnmh)
+- 🔭 I’m currently working on [capalliance]()
 
-- 🌱 I’m currently learning **Kotline**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Laravel, php, javaScript**
+- 💬 Ask me about **Laravel, php, javaScript, React**
 
 - 📫 How to contact me **hamidachaou379@gmail.com**
 
