@@ -12,7 +12,6 @@
 ---
 
 ### 🛠️ About Me
-- 🔭 I’m currently working on **[Logidesk]()**
 - 🌱 I’m currently focusing on improving my skills in **programming**
 - 💬 Ask me about **Laravel, PHP, MySQL, javaScript, React, FastAPI**
 - 📫 Reach me at **hamidachaou379@gmail.com**
