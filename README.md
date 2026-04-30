@@ -88,21 +88,6 @@ I'm a **Full Stack Developer** with a strong track record of building and mainta
 
 ---
 
-### 🎓 Education & Certifications
-
-| Credential | Institution | Year |
-|------------|-------------|------|
-| Specialization Certificate (Level 3) – Web Development | Simplon.co / OFPPT | 2023 |
-| Bachelor's Degree in Economics | Abdelmalek Essaadi University | 2020 |
-| Baccalaureate – Life & Earth Sciences | Lycée Ibn Alhaytam | 2019 |
-
-**Languages:**  
-- Arabic (Native)  
-- English (Intermediate)  
-- French (Intermediate)
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
