@@ -1,65 +1,114 @@
 <h1 align="center">Hi 👋, I'm Hamid Achaou</h1>
-<h3 align="center">Full Stack Developer | Laravel • Symfony • React • WordPress Specialist</h3>
+<h3 align="center">Full Stack Developer | Laravel, Symfony, React & WordPress Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamidachaou&label=Profile%20views&color=0e75b6&style=flat" alt="hamidachaou" />
+  <img src="https://komarev.com/ghpvc/?username=hamidachaou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/achaou-hamid-093682253/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:hamidachaou379@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hamidachaou&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-### 🛠️ About Me
-I am a **Full Stack Developer** based in Morocco, specializing in building robust web applications and modern user interfaces[cite: 1]. With a strong foundation in PHP frameworks and React, I focus on delivering high-performance, SEO-friendly solutions[cite: 1].
+### 👨‍💻 About Me
 
-- 🌱 **Currently Scaling:** [Blob Pharmacy](https://github.com/hamidAchaou), a multi-tenant SaaS inventory system[cite: 1].
-- 💬 **Ask me about:** Laravel, Symfony, React, WordPress, and API development (FastAPI)[cite: 1].
-- ⚡ **Focus:** Clean Code, Core Web Vitals, and "Magic" UI/UX designs[cite: 1].
+I'm a **Full Stack Developer** with proven experience building web applications for production environments. I specialize in **Laravel, Symfony, React.js, and MySQL**, and I'm passionate about creating clean, efficient, and user-friendly solutions.
 
----
-
-### 💼 Professional Journey
-*   **Logidesk (Tanger):** Developed enterprise applications using **Symfony** and **Laravel**, focusing on client management, invoicing systems, and SQL optimization[cite: 1].
-*   **Moroccan Crafts E-commerce:** Built a specialized marketplace with **Laravel 10**, featuring secure Stripe payments and Spatie role management[cite: 1].
-*   **Cap Alliances (Tanger):** Created real-time project dashboards using **React** and **FastAPI**[cite: 1].
-*   **Manifist AI (Tanger):** Designed and deployed a corporate website for a nursery using **WordPress**[cite: 1].
+- 💼 **Available for:** Full-time roles, freelance projects, and collaborations.
+- 🔭 **Recent experience:** Developed 2 web applications at Logidesk (Symfony, Laravel) including client management, internal task systems, invoicing, and absence tracking.
+- 🌱 **Currently improving:** Advanced programming concepts and modern web architectures.
+- 💬 **Ask me about:** Laravel, PHP, MySQL, JavaScript, React, FastAPI, WordPress.
+- 📫 **Contact me:** [hamidachaou379@gmail.com](mailto:hamidachaou379@gmail.com)
+- 🌐 **Portfolio & more:** [github.com/hamidAchau](https://github.com/hamidAchau)
 
 ---
 
-### 🌐 Languages and Tools
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  
-  <!-- Backend & CMS -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-------------|
+| **Moroccan Crafts E-commerce** | Full-featured e-commerce platform with authentication, role management, Stripe payments, and admin panel. | Laravel 10, MySQL, Stripe API, Spatie |
+| **Logidesk Applications** | Two production web apps: client management (agenda) + internal system (tasks, invoices, absences). | Symfony, Laravel, SQL Optimization |
+| **Cap Alliances Dashboard** | Interactive project management dashboards for enterprise use. | React, FastAPI |
+| **Creche Website** | Custom WordPress site for a daycare center. | WordPress, PHP |
+
+---
+
+### 🛠️ Technical Skills
+
+<details open>
+<summary><b>Frontend</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </p>
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>Databases & Tools</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+</details>
+
+**Methodologies:** Agile, UML, Merise
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Work Experience
+
+**Full Stack Developer** @ *Logidesk (Tanger)* | Nov 2024 – Mar 2025
+- Developed 2 production web apps (Symfony, Laravel)
+- Implemented client management (agenda), internal system (tasks, invoices, absences)
+- Bug fixing, SQL optimization, and Agile team collaboration
+
+**Full Stack Intern** @ *Cap Alliances (Tanger)* | Jul 2024 – Aug 2024
+- Built project dashboards with React and FastAPI
+- Contributed to enterprise project design
+
+**Full Stack Intern** @ *Manifist AI (Tanger)* | Jul 2023 – Aug 2023
+- Developed a daycare website using **WordPress**
+
+---
+
+### 🎓 Education & Certifications
+
+- **Specialization Certificate (Level 3) Web Development** – Simplon.co / OFPPT (2023)
+- **Bachelor's Degree in Economics** – Abdelmalek Essaadi University (2020)
+- **High School Diploma (Life & Earth Sciences)** – Lycée Ibn Alhaytam (2019)
+
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidachaou&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamidachaou&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidachaou&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamidachaou&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180" />
 </p>
 
 <p align="center">
@@ -68,7 +117,22 @@ I am a **Full Stack Developer** based in Morocco, specializing in building robus
 
 ---
 
-<p align="center">
-  <b>Let's build something magical together!</b><br>
-  🇲🇦 Based in Morocco | Available for Freelance & Full-time opportunities[cite: 1].
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/achaou-hamid-093682253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/achaouh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/hamid9021" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:hamidachaou379@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+*“Building robust web solutions, one commit at a time.”*
